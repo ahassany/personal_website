@@ -1,10 +1,10 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Ahmed ElHassany
+tag_text: Ahmed El-Hassany
+description: I am a first year PhD student at ETH Zürich, advised by Laurent Vanbever. My research looks at how to make networks more programmable and how to verify correctness of programmable networks.
+
 
 # Build settings
 markdown: kramdown
+
 exclude: ["README.md"]
-sass:
-  style: compressed
