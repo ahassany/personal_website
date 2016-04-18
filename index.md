@@ -30,17 +30,17 @@ Please see my [CV](./pdfs/cv.pdf) for further information.
 
 ### Publications
 
-* [iRacer: Concurrency Analysis for Software-Defined Networks.](#). Ahmed El-Hassany, Jeremie Miserez, Pavol Bielik, Laurent Vanbever, Martin Vechev. PLDI '16 (comming soon).
+* [SDNRacer: Concurrency Analysis for Software-Defined Networks](#). Ahmed El-Hassany, Jeremie Miserez, Pavol Bielik, Laurent Vanbever, Martin Vechev. PLDI '16 (comming soon).
 
 * [Efficient Communication and Collection with Compact Normal Forms](./pdfs/cnf_pldi15.pdf). Edward Z Yang, Giovanni Campagna, Omer Agacan, Ahmed El-Hassany, Abhishek Kulkarni, Ryan Newton. ICFP '15.
 
-* [SDNRacer: Detecting Concurrency Violations in Software-Defined Networkss](./pdfs/sdnracer_sosr15.pdf). Jeremie Miserez, Pavol Bielik, Ahmed El-Hassany, Laurent Vanbever, Martin Vechev. ACM SOSR '15.
+* [SDNRacer: Detecting Concurrency Violations in Software-Defined Networks](./pdfs/sdnracer_sosr15.pdf). Jeremie Miserez, Pavol Bielik, Ahmed El-Hassany, Laurent Vanbever, Martin Vechev. ACM SOSR '15.
 
-* [Troubleshooting blackbox SDN control software with minimal causal sequencess](./pdfs/sts_sigcomm14.pdf). Colin Scott, Andreas Wundsam, Barath Raghavan, Aurojit Panda, Andrew Or, Jefferson Lai, Eugene Huang, Zhi Liu, Ahmed El-Hassany, Sam Whitlock, H.B. Acharya, Kyriakos Zarifis, and Scott Shenker. ACM SIGCOMM '14.
+* [Troubleshooting Blackbox SDN Control Software with Minimal Causal Sequencess](./pdfs/sts_sigcomm14.pdf). Colin Scott, Andreas Wundsam, Barath Raghavan, Aurojit Panda, Andrew Or, Jefferson Lai, Eugene Huang, Zhi Liu, Ahmed El-Hassany, Sam Whitlock, H.B. Acharya, Kyriakos Zarifis, and Scott Shenker. ACM SIGCOMM '14.
 
 * [Design and Implementation of a Unified Network Information Services](./pdfs/unis_scc13.pdf). Ahmed El-Hassany, Ezra Kissel Daniel Gunter, Martin Swany. IEEE SCC '13.
 
-* [Scalable integrated performance analysis of multi-gigabit networkss](./pdfs/blipp_noms12.pdf). Ezra Kissel, Ahmed El-Hassany, Guilherme Fernandes, Martin Swany, Dan Gunter, Taghrid Samak, Jennifer M Schopf. IEEE NOMS '12.
+* [Scalable Integrated Performance Analysis of Multi-Gigabit Networks](./pdfs/blipp_noms12.pdf). Ezra Kissel, Ahmed El-Hassany, Guilherme Fernandes, Martin Swany, Dan Gunter, Taghrid Samak, Jennifer M Schopf. IEEE NOMS '12.
 
 
 
