@@ -30,7 +30,7 @@ Please see my [CV](./pdfs/cv.pdf) for further information.
 
 ### Publications
 
-* [SDNRacer: Concurrency Analysis for Software-Defined Networks](#). Ahmed El-Hassany, Jeremie Miserez, Pavol Bielik, Laurent Vanbever, Martin Vechev. PLDI '16 (comming soon).
+* [SDNRacer: Concurrency Analysis for Software-Defined Networks](./pdfs/sdnracer_pldi16.pdf). Ahmed El-Hassany, Jeremie Miserez, Pavol Bielik, Laurent Vanbever, Martin Vechev. PLDI '16.
 
 * [Efficient Communication and Collection with Compact Normal Forms](./pdfs/cnf_pldi15.pdf). Edward Z Yang, Giovanni Campagna, Omer Agacan, Ahmed El-Hassany, Abhishek Kulkarni, Ryan Newton. ICFP '15.
 
