@@ -13,7 +13,7 @@ Contact: eahmed (at) ethz.ch, <a class="icons" href="//github.com/ahassany/"><i 
 
 
 
-I am a first year Ph.D. student at ETH Zürich, advised by [Laurent Vanbever](http://www.vanbever.eu).
+I am a second year Ph.D. student at ETH Zürich, advised by [Laurent Vanbever](http://www.vanbever.eu).
 My research looks at how to make networks more programmable and how to verify the correctness of programmable networks.
 
 
@@ -29,6 +29,8 @@ Please see my [CV](./pdfs/cv.pdf) for further information.
 
 
 ### Publications
+
+* [Network-wide Configuration Synthesis](./pdfs/synet-arxiv.pdf). Ahmed El-Hassany, Petar Tsankov, Laurent Vanbever, Martin Vechev. [arXiv preprint 1611.02537](https://arxiv.org/abs/1611.02537)
 
 * [SDNRacer: Concurrency Analysis for Software-Defined Networks](./pdfs/sdnracer_pldi16.pdf). Ahmed El-Hassany, Jeremie Miserez, Pavol Bielik, Laurent Vanbever, Martin Vechev. PLDI '16.
 
