@@ -29,6 +29,7 @@ Please see my [CV](./pdfs/cv.pdf) for further information.
 
 
 ### Publications
+* [BigBug: Practical Concurrency Analysis for SDN](./pdfs/bigbug.pdf). Roman May, Ahmed El-Hassany, Laurent Vanbever, Martin Vechev. ACM SOSR '17.
 
 * [Network-wide Configuration Synthesis](./pdfs/synet-arxiv.pdf). Ahmed El-Hassany, Petar Tsankov, Laurent Vanbever, Martin Vechev. [arXiv preprint 1611.02537](https://arxiv.org/abs/1611.02537)
 
