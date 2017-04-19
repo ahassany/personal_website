@@ -27,8 +27,15 @@ I received a master degree in Computer Science from University of Delaware in 20
 Please see my [CV](./pdfs/cv.pdf) for further information.
 
 
+### Current Projects 
+
+* [Network-wide Configuration Synthesis](http://synet.ethz.ch).
+
+* [Concurrency Analysis for Software-Defined Networks](http://sdnracer.ethz.ch).
 
 ### Publications
+* [Network-wide Configuration Synthesis](). Ahmed El-Hassany, Petar Tsankov, Laurent Vanbever, Martin Vechev. [CAV 2017](http://cavconference.org/2017/)
+
 * [BigBug: Practical Concurrency Analysis for SDN](./pdfs/bigbug.pdf). Roman May, Ahmed El-Hassany, Laurent Vanbever, Martin Vechev. ACM SOSR '17.
 
 * [Network-wide Configuration Synthesis](./pdfs/synet-arxiv.pdf). Ahmed El-Hassany, Petar Tsankov, Laurent Vanbever, Martin Vechev. [arXiv preprint 1611.02537](https://arxiv.org/abs/1611.02537)
